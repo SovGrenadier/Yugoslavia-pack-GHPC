@@ -10,5 +10,6 @@ How to install:
 This mod will replace every T-72M1 with an M-84A.
 For questions, contact me in the GHPC discord with the username SwissAdmiral.
 This is a preliminary mod for what will eventually be a full fledged Yugoslavia mod.
+This mod is incompatible with my T72B mod, as they both try to replace the T72M1.
 
 Last updated 23/10.
