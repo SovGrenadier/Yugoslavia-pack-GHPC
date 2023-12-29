@@ -7,9 +7,9 @@ How to install:
 3. Drop the .dll in the mod folder of your GHPC game.
 4. Run the .exe directly from the game directory. *IT WILL NOT WORK THORUGH STEAM!*
 
-This mod will replace every T-72M1 with an M-84A.
+This mod will replace every T-72M1, or optionally the T-72M as well, with an M-84A.
 For questions, contact me in the GHPC discord with the username SwissAdmiral.
-This is a preliminary mod for what will eventually be a full fledged Yugoslavia mod.
+This is a preliminary mod for what will hopefully eventually be a full fledged Yugoslavia mod.
 This mod is incompatible with my T72B mod, as they both try to replace the T72M1.
 
-Last updated 23/10.
+Last updated 29/12/23.
