@@ -12,4 +12,16 @@ For questions, contact me in the GHPC discord with the username SwissAdmiral.
 This is a preliminary mod for what will hopefully eventually be a full fledged Yugoslavia mod.
 This mod is incompatible with my T72B mod, as they both try to replace the T72M1.
 
+In order to use the provided optional livery, you must:
+1. Download the PNG livery of latest release and AssetBundleExtractor from Github. Just search for it.
+2. File>Open
+3. Select the sharedassets1.assets file from your GHPC directory, usually found in something like ThisPC>LocalDisk>ProgramFiles>Steam>steamapps>GHPC>Bin>GHPC_Data
+4. Sort the files in AssetBundleExtractor by name to make it more convienent.
+5. Go to View>Search and type in T72, case sensitive
+6. Select the T72A_co file and click Plugins>Edit
+7. Load>M84_Livery. Press OK. Ensure that the texture format is set to DXT5. Quality should be set to normal.
+8. File>Apply and Save all, save the new assets file in a different folder, ensure that you put .assets at the end of the file name.
+9. Paste the assets file back into your GHPC_Data folder, allow it to replace the existing file.
+10. Run your game and enjoy.
+
 Last updated 29/12/23.
