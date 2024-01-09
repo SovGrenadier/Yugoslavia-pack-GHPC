@@ -24,4 +24,4 @@ In order to use the provided optional livery, you must:
 9. Paste the assets file back into your GHPC_Data folder, allow it to replace the existing file.
 10. Run your game and enjoy.
 
-Last updated 29/12/23.
+Last updated 08/01/24
