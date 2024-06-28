@@ -3,7 +3,7 @@
 How to install:
 
 1. Requires MelonLoader, instructions for download here: https://www.youtube.com/watch?v=LbIHolAu5CE at roughly 0:34. Melonloader is found on github through a simple search.
-2. Download the latest release (Watch for updates, they're frequent.)
+2. Download the latest release (Watch for updates, and please don't make bug reports if you havent updated your mod.)
 3. Drop the .dll in the mod folder of your GHPC game.
 4. Run the .exe directly from the game directory. *IT WILL NOT WORK THORUGH STEAM!*
 
